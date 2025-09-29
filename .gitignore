@@ -1,8 +1,4 @@
-**.tmp
-<<<<<<< HEAD
-!we23gye.tmp
-# comment
-
-=======
-!we23gye.tmp
->>>>>>> second
+**/temp/
+a/**/d/
+!a/**/**x.bmp
+**/img-to-ignore
